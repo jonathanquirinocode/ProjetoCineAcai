@@ -17,6 +17,7 @@
 
 .mylist{
     text-decoration: none;
+    color: black;
     cursor: pointer;
     padding: 3px 6px;
     background-color: rgb(196, 196, 196);
