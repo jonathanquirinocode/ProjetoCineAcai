@@ -1,12 +1,12 @@
 import { Link } from "react-router-dom"; 
-import './header.css';
+import "./header.css";
 
 
 function Header(){
     return(
         <header className="header">
             <Link className="logo" to="/"> CineAçaí </Link>
-            <Link className="mylist" to="/minhalista"> Minha Lista </Link>
+            <Link className="mylist" to="/minhaLista"> Minha Lista </Link>
         </header>
     )
 }
