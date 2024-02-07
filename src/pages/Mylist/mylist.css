@@ -1,0 +1,37 @@
+.meusfilmes{
+    margin-top: 26px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.meusfilmes h1{
+    margin-bottom: 40px;
+}
+
+.meusfilmes ul{
+    width: 720px;
+}
+
+.meusfilmes ul li{
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 14px;
+}
+
+.meusfilmes div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.meusfilmes div a{
+    text-decoration: none;
+    color: #116feb;
+    margin-right: 14px;
+}
+
+.noFilmes{
+    margin-top: 30px;
+}

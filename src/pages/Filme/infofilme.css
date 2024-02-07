@@ -45,6 +45,7 @@
     border-radius: 4px;
     cursor: pointer;
     transition: all 0.5s;
+    background-color: rgb(187, 187, 187);
 }
 
 .areaBtn button:hover{
@@ -60,5 +61,10 @@
 
 .areaBtn a:hover{
     color: white;
+}
+
+.loading{
+    text-align: center;
+    margin-top: 410px;
 }
 
